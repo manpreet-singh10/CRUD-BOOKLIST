@@ -5,7 +5,7 @@ const Footer = ()=>{
     return (
         <footer class="footer text-center mt-auto py-5">
         <div class="container">
-          <span class="text-muted">vishalpathak166@gmail.com</span>
+          <span class="text-muted">singhm93669@gmail.com</span>
         </div>
       </footer>
 
